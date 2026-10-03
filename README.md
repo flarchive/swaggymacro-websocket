@@ -2,13 +2,24 @@
 
 > **Read-only archive of released versions of swaggymacro/websocket.** Not for installation: use [Packagist](https://packagist.org/packages/swaggymacro/websocket) or the [upstream repository](https://github.com/SwaggyMacro/websocket).
 
-**0** versions archived · Latest: [`3.3.0`](https://github.com/flarchive/swaggymacro-websocket/tree/archive/v3.3.0) · License: `MIT` · Flarum: `^1.0.2`
+**36** versions archived · Latest: [`3.3.0`](https://github.com/flarchive/swaggymacro-websocket/tree/archive/v3.3.0) · License: `MIT` · Flarum: `^1.0.2`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0` | 2020-03-24 | `^0.1.0-beta.11` | [Browse](https://github.com/flarchive/swaggymacro-websocket/tree/archive/v1.0) |
+| `1.0.1` | 2020-04-08 | `^0.1.0-beta.11` | [Browse](https://github.com/flarchive/swaggymacro-websocket/tree/archive/v1.0.1) |
+| `1.0.2` | 2020-04-08 | `^0.1.0-beta.11` | [Browse](https://github.com/flarchive/swaggymacro-websocket/tree/archive/v1.0.2) |
+| `1.0.3` | 2020-05-06 | `^0.1.0-beta.11` | [Browse](https://github.com/flarchive/swaggymacro-websocket/tree/archive/v1.0.3) |
+| `1.0.4` | 2020-05-08 | `^0.1.0-beta.11` | [Browse](https://github.com/flarchive/swaggymacro-websocket/tree/archive/v1.0.4) |
+| `1.0.5` | 2020-05-10 | `^0.1.0-beta.11` | [Browse](https://github.com/flarchive/swaggymacro-websocket/tree/archive/v1.0.5) |
+| `1.0.6` | 2020-08-17 | `^0.1.0-beta.11` | [Browse](https://github.com/flarchive/swaggymacro-websocket/tree/archive/v1.0.6) |
+| `1.0.7` | 2020-08-20 | `^0.1.0-beta.11` | [Browse](https://github.com/flarchive/swaggymacro-websocket/tree/archive/v1.0.7) |
+| `1.0.8` | 2020-09-24 | `^0.1.0-beta.14` | [Browse](https://github.com/flarchive/swaggymacro-websocket/tree/archive/v1.0.8) |
+| `2.0.0` | 2020-11-02 | `^0.1.0-beta.14.1` | [Browse](https://github.com/flarchive/swaggymacro-websocket/tree/archive/v2.0.0) |
+
+[View all 36 versions](https://github.com/flarchive/swaggymacro-websocket/tags)
 
 Catalog entry: [packages/swaggymacro-websocket.json](https://github.com/flarchive/archive-index/blob/main/packages/swaggymacro-websocket.json)
 
